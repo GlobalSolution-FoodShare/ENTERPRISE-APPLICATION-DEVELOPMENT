@@ -5,6 +5,8 @@
 # Sumário
 - [Sobre](#sobre)
 
+- [Inicialização do server api](#inicializa-api)
+
 - [Vídeo](#video)
 
 - [Figma](#figma)
@@ -17,9 +19,10 @@
 
 - [Arquitetura](#arquitetura-projeto)
 
+# Sobre:
+### O Food Share,uma solução tecnológica para a gestão e distribuição de alimentos.O projeto visa solucionar o problema do desperdício de alimentos e a insegurança alimentar no Brasil. Dessa forma, o Food Share promove a doação e redistribuição de alimentos para pessoas em situação de vulnerabilidade. Para alcançar esse objetivo, foi desenvolvido um sistema integrado utilizando tecnologias como React Native, Spring Boot e OracleDatabase.
 
-# inicialização do server api
-
+# Inicialização do server api
 
 ```
 git clone https://github.com/GlobalSolution-FoodShare/ENTERPRISE-APPLICATION-DEVELOPMENT.git
@@ -30,10 +33,6 @@ cd ENTERPRISE-APPLICATION-DEVELOPMENT/foodshare
 ```
 docker compose up --build
 ```
-
-
-# Sobre:
-### O Food Share,uma solução tecnológica para a gestão e distribuição de alimentos.O projeto visa solucionar o problema do desperdício de alimentos e a insegurança alimentar no Brasil. Dessa forma, o Food Share promove a doação e redistribuição de alimentos para pessoas em situação de vulnerabilidade. Para alcançar esse objetivo, foi desenvolvido um sistema integrado utilizando tecnologias como React Native, Spring Boot e OracleDatabase.
 
 # Vídeo:
 - [clique aqui]()  
