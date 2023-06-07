@@ -34,8 +34,12 @@ cd ENTERPRISE-APPLICATION-DEVELOPMENT/foodshare
 docker compose up --build
 ```
 
-# Vídeo:
-- [clique aqui]()  
+# Vídeo prótotipo:
+- [clique aqui](https://youtu.be/JkopebupOSc)  
+
+caso deseja ver o pitch: 
+
+- [pitch](https://youtu.be/hl9_DjcMqsg)
 
 # Figma: 
 ### Representação visual do projeto com a parte da UX e interação do usuário.
