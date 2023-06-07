@@ -7,7 +7,7 @@
 
 - [Inicialização](#inicialização)
 
-- [Vídeo](#vídeo)
+- [Vídeo](#vídio-prototipo)
 
 - [Figma](#figma)
   
