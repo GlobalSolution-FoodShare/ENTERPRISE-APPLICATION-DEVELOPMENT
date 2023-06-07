@@ -5,7 +5,7 @@
 # Sumário
 - [Sobre](#sobre)
 
-- [Inicialização](#inicializa-api)
+- [Inicialização](#inicialização)
 
 - [Vídeo](#video)
 
