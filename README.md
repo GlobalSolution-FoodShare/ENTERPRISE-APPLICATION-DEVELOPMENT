@@ -37,7 +37,7 @@ docker compose up --build
 # Vídeo prótotipo:
 - [clique aqui](https://youtu.be/JkopebupOSc)  
 
-caso deseja ver o pitch: 
+Caso queira ver o video do Pitch: 
 
 - [pitch](https://youtu.be/hl9_DjcMqsg)
 
