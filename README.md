@@ -51,7 +51,7 @@ docker compose up --build
 
 # Endpoints: 
 ### Neste link está estruturado todos os endpoints que serão utilizados na aplicação.
-### Documento: 
+### Swagger: 
 - [clique aqui](https://app.swaggerhub.com/apis-docs/LUANSSRR/Foodshare/1.0.0)
 
 # Diagrama de classes: 
